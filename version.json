@@ -1,0 +1,14 @@
+{
+  "dataVersion": "2.0.2",
+  "lastUpdated": "2025-11-27T00:00:00Z",
+  "ships": {
+    "version": "2.0.2",
+    "count": 190,
+    "lastModified": "2025-11-27T00:00:00Z"
+  },
+  "loaners": {
+    "version": "2.0.2",
+    "count": 72,
+    "lastModified": "2025-11-27T00:00:00Z"
+  }
+}
